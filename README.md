@@ -1,2 +1,2 @@
-# awseb-sample
+# AWSEB-App
 NodeJS, Docker, AWSEB
